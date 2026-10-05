@@ -4,7 +4,7 @@ A portable trim-sheet editor for environment and game artists.
 
 Build precise strip layouts, link textures to regions, and export sheets, masks and guides for Substance, Unreal Engine and Unity workflows.
 
-**Current version: 0.1 alpha**
+**Current version: 0.4 alpha**
 
 [Download releases](https://github.com/TurboTosti/Turbo-Trimmer/releases) | [Report an issue](https://github.com/TurboTosti/Turbo-Trimmer/issues)
 
